@@ -1,6 +1,7 @@
   <h2 align="center">
+<img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
   Welcome to Jeremi Herodian profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
 </p>
