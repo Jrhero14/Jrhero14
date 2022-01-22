@@ -3,11 +3,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+#
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=6qp" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
+<div align="left">
+<p>I am a computer science student at Udayana University</p>
+<p>I like developing new things, my hobbies are music and guitar</p>
+<p>Now I am working as a programmer in KodingKatze with some of my friends</p>
+</div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC9hEgBYgwcBXp1pwOmMbkBQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>
   <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
@@ -26,6 +35,10 @@
     <img alt="Jrhero Website" title="See my Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
+#
+#
+#
+#
 ## 🔥 Streak stats
 
 <p align="center">
