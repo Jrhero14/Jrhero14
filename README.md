@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-#
-
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=6qp" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
 <div align="left">
 <p>I am a computer science student at Udayana University</p>
@@ -36,15 +34,20 @@
 </p>
 
 <pre>
-
-
-
-
-
-
-
-
-
+            ______________
+      ,===:'.,            `-._
+           `:.`---.__         `-._
+             `:.     `--.         `.
+               \.        `.         `.
+       (,,(,    \.         `.   ____,-`.,
+    (,'     `/   \.   ,--.___`.'
+,  ,'  ,--.  `,   \.;'         `
+ `{D, {    \  :    \;
+   V,,'    /  /    //
+   j;;    /  ,' ,-//.    ,---.      ,
+   \;'   /  ,' /  _  \  /  _  \   ,'/
+         \   `'  / \  `'  / \  `.' /
+          `.___,'   `.__,'   `.__,'
 </pre>
 ## 🔥 Streak stats
 
