@@ -1,17 +1,12 @@
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
   <h2 align="center">
   Welcome to Jeremi Herodian profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
 </p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC9hEgBYgwcBXp1pwOmMbkBQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>
@@ -33,7 +28,6 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrhero14&theme=monokai-metallian&hide_border=true"/>
@@ -100,8 +94,4 @@
 </p>
 
 ## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JrHero Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Jrhero14&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
