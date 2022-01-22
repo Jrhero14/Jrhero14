@@ -8,9 +8,9 @@
 
 <a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=p2p" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
 <div align="left">
-<p>I am a computer science student at Udayana University</p>
-<p>I like developing new things, my hobbies are music and guitar</p>
-<p>Now I am working as a programmer in KodingKatze with some of my friends</p>
+<p>𝐈 𝐚𝐦 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐔𝐝𝐚𝐲𝐚𝐧𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲</p>
+<p>𝐈 𝐥𝐢𝐤𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬, 𝐦𝐲 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 𝐚𝐫𝐞 𝐦𝐮𝐬𝐢𝐜 𝐚𝐧𝐝 𝐠𝐮𝐢𝐭𝐚𝐫</p>
+<p>𝐍𝐨𝐰 𝐈 𝐚𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐧 𝐊𝐨𝐝𝐢𝐧𝐠𝐊𝐚𝐭𝐳𝐞 𝐰𝐢𝐭𝐡 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐟𝐫𝐢𝐞𝐧𝐝𝐬</p>
 </div>
 
 <p align="left">
