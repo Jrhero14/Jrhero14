@@ -22,6 +22,14 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jrhero14"/></a>
   <a href="https://github.com/Jrhero14">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Jrhero14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://api.whatsapp.com/send?phone=6281386049701&text=Hi%2C%20i%20got%20your%20contacts%20from%20github.">
+    <img alt="Whatsapp" title="Contact Me on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeremi-herodian-abednigo-808584228/">
+    <img alt="Linkedin" title="See me CV" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jrhero.a/">
+    <img alt="Instagram" title="See my Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://jrhero.herokuapp.com/">
+    <img alt="Jrhero Website" title="See my Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ## 🔥 Streak stats
