@@ -1,11 +1,11 @@
-  <h2 align="center">
-<img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
+ <img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
+  <h1 align="center">
   Welcome to Jeremi Herodian profile!
-  <img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
 </p>
-</h2>
+</h1>
+<img src="https://c.tenor.com/6peQcM94GUQAAAAi/anime-dancing.gif" width="45">
 
 <a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=p2p" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
 <div align="left">
