@@ -30,8 +30,6 @@
     <img alt="Instagram" title="See my Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://jrhero.herokuapp.com/">
     <img alt="Jrhero Website" title="See my Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
-
 <pre>
       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
       $$$$$$$$$$$$$$$$Y/'$$$$P'a$$$$$$$$$$$$$$$$
@@ -50,6 +48,9 @@
       $$$$$$$$,$$$$$$$L44., . .     ,,;d$$$$$$$$
       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 </pre>
+</p>
+
+
 ## 🔥 Streak stats
 
 <p align="center">
