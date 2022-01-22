@@ -6,7 +6,7 @@
 </p>
 </h2>
 
-<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=x89" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
+<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=p2p" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
 <div align="left">
 <p>I am a computer science student at Udayana University</p>
 <p>I like developing new things, my hobbies are music and guitar</p>
