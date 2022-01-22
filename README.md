@@ -1,6 +1,9 @@
   <h2 align="center">
   Welcome to Jeremi Herodian profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
+</p>
 </h2>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=6qp" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
@@ -9,10 +12,6 @@
 <p>I like developing new things, my hobbies are music and guitar</p>
 <p>Now I am working as a programmer in KodingKatze with some of my friends</p>
 </div>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7D004&center=true&vCenter=true&lines=Backend+Developer+-+Web+Developer;Lazy+Programmer;Corgi+lovers;Editor+Video"></a>
-</p>
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
