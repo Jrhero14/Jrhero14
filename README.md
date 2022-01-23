@@ -7,7 +7,7 @@
 </p>
 </h1>
 
-<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=p2p" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
+<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=yd1" width="400" alt="Jeremi Herodian Abednigo's Dev Card" width="400" alt="Jrhero14 DevCard" align="right"/></a>
 <div align="left">
 <p>𝐈 𝐚𝐦 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐔𝐝𝐚𝐲𝐚𝐧𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲</p>
 <p>𝐈 𝐥𝐢𝐤𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬, 𝐦𝐲 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 𝐚𝐫𝐞 𝐦𝐮𝐬𝐢𝐜 𝐚𝐧𝐝 𝐠𝐮𝐢𝐭𝐚𝐫</p>
