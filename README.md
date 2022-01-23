@@ -120,4 +120,6 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 </p>
 
 ## 📊 Github stats
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JrHero Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Jrhero14&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JrHero Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jrhero14&bg_color=1f222e&color=f8ed86&line=f85d7f&point=ffffff&area=true&hide_border=true" /></a>
