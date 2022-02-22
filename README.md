@@ -33,26 +33,7 @@
     <img alt="Jrhero Website" title="See my Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
 
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jrhero14 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrhero14&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jrhero14 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jrhero14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-</p>
-
-#
 ### 👨‍💻 Programming languages
 
 <p>
@@ -61,7 +42,6 @@
     <a href="https://github.com/search?q=user%3AJrhero14+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
-###
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -76,7 +56,6 @@
 
 </p>
 
-###
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -87,7 +66,6 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
 
-###
 ### 💻 Operation System
 
 <p>
@@ -98,13 +76,26 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-###
 ### ♾️ DevOps
 
 <p>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+
+
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jrhero14 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jrhero14&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jrhero14 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jrhero14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+
 </p>
 
 ## 📊 Github stats
