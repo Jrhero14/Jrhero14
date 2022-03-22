@@ -5,10 +5,6 @@
 </div>
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC9hEgBYgwcBXp1pwOmMbkBQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>
-  <a href="https://www.youtube.com/channel/UC9hEgBYgwcBXp1pwOmMbkBQ">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UC9hEgBYgwcBXp1pwOmMbkBQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/Jrhero14?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jrhero14"/></a>
   <a href="https://github.com/Jrhero14">
