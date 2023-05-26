@@ -1,7 +1,5 @@
 <div align="left">
-          <a href="https://app.daily.dev/JrHero14"><img
-               src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=z0f" width="400"
-               alt="Jeremi Herodian Abednigo's Dev Card" align="right"/></a>
+          <a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="400" alt="Jeremi Herodian Abednigo's Dev Card" align="right"/></a>
      </div>
 
 
