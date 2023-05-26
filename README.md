@@ -1,7 +1,15 @@
 <div align="left">
-<p>𝐈 𝐚𝐦 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐔𝐝𝐚𝐲𝐚𝐧𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲</p>
-<p>𝐈 𝐥𝐢𝐤𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬, 𝐦𝐲 𝐡𝐨𝐛𝐛𝐢𝐞𝐬 𝐚𝐫𝐞 𝐦𝐮𝐬𝐢𝐜 𝐚𝐧𝐝 𝐠𝐮𝐢𝐭𝐚𝐫</p>
-<p>𝐍𝐨𝐰 𝐈 𝐚𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐬 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 𝐢𝐧 𝐊𝐨𝐝𝐢𝐧𝐠𝐊𝐚𝐭𝐳𝐞 𝐰𝐢𝐭𝐡 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐟𝐫𝐢𝐞𝐧𝐝𝐬</p>
+          <a href="https://app.daily.dev/JrHero14"><img
+               src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=z0f" width="400"
+               alt="Jeremi Herodian Abednigo's Dev Card" align="right"/></a>
+     </div>
+
+
+## I'm Jeremi Herodian Abednigo
+<div align="left">
+<p>𝙸'𝚊𝚖 𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚄𝚍𝚊𝚢𝚊𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</p>
+<p>𝙸 𝚕𝚒𝚔𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚖𝚎</p>
+<p>𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚘𝚛 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚘 𝙰𝙸</p>
 </div>
 
 <p align="left">
@@ -22,7 +30,7 @@
 
 ### 👨‍💻 Programming languages
 
-<p>
+<p align="left">
     <a href=""><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a href=""><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href=""><img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
@@ -31,7 +39,7 @@
 
 ### 🧰 Frameworks and libraries
 
-<p>
+<p align="left">
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Django Rest" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Fastapi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
@@ -45,7 +53,7 @@
 
 ### 🗄️ Databases and cloud hosting
 
-<p>
+<p align="left">
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
@@ -54,7 +62,7 @@
 
 ### 💻 Operation System
 
-<p>
+<p align="leftr">
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
@@ -64,7 +72,7 @@
 
 ### ♾️ DevOps
 
-<p>
+<p align="left">
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
