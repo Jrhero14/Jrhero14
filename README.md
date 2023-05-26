@@ -83,6 +83,3 @@
 </p>
 
 </p>
-
-## 📊 Github stats
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JrHero Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jrhero14&bg_color=1f222e&color=f8ed86&line=f85d7f&point=ffffff&area=true&hide_border=true" /></a>
