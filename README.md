@@ -8,11 +8,11 @@
 <p>𝙸'𝚊𝚖 𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚄𝚍𝚊𝚢𝚊𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</p>
 <p>𝙸 𝚕𝚒𝚔𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚖𝚎</p>
 <p>𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚘𝚛 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚘 𝙰𝙸</p>
-<div style="display: flex;">
-<p>My Profile Website:</p>
-<a href="https://jrhero14.github.io/profile/index.html">&nbsp;https://jrhero14.github.io/profile/index.html</a>
 </div>
-</div>
+
+### My Profile Website:
+
+<a style="font-weight: bold;" href="https://jrhero14.github.io/profile/index.html">&nbsp;https://jrhero14.github.io/profile/index.html</a>
 
 <p align="left">
   <a href="https://github.com/Jrhero14?tab=repositories&sort=stargazers">
