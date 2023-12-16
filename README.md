@@ -1,21 +1,19 @@
-<div align="left">
-          <a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="400" alt="Jeremi Herodian Abednigo's Dev Card" align="right"/></a>
-     </div>
 
 ## I'm Jeremi Herodian Abednigo
 
 <div align="left">
-<p>𝙸'𝚊𝚖 𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚄𝚍𝚊𝚢𝚊𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</p>
-<p>𝙸 𝚕𝚒𝚔𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚖𝚎</p>
-<p>𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚘𝚛 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚘 𝙰𝙸</p>
+<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="300" alt="Jeremi Herodian Abednigo's Dev Card" align="left"/></a>
+<p>&nbsp;&nbsp;&nbsp;𝙸'𝚊𝚖 𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚄𝚍𝚊𝚢𝚊𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</p>
+<p>&nbsp;&nbsp;&nbsp;𝙸 𝚕𝚒𝚔𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚖𝚎</p>
+<p>&nbsp;&nbsp;&nbsp;𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚘𝚛 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚜𝚒𝚖𝚒𝚕𝚊𝚛 𝚝𝚘 𝙰𝙸</p>
 </div>
 
-### My Profile Website:
+### &nbsp;&nbsp;&nbsp;My Profile Website:
 
-<a style="font-weight: bold;" href="https://jrhero14.github.io/profile/index.html">&nbsp;https://jrhero14.github.io/profile/index.html</a>
+<a style="font-weight: bold;" href="https://jrhero14.github.io/profile/index.html">&nbsp;&nbsp;&nbsp;https://jrhero14.github.io/profile/index.html</a>
 
 <p align="left">
-  <a href="https://github.com/Jrhero14?tab=repositories&sort=stargazers">
+  &nbsp;&nbsp;<a href="https://github.com/Jrhero14?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jrhero14"/></a>
   <a href="https://github.com/Jrhero14">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Jrhero14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -27,7 +25,7 @@
     <img alt="Instagram" title="See my Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-![snake animation](https://raw.githubusercontent.com/Jrhero14/Jrhero14/b558d13be5f6c057f221f1ffd2ec421f746c4f23/github-contribution-grid-snake-dark.svg)
+<img alt="Snake" title="Snake" width="800" src="https://raw.githubusercontent.com/Jrhero14/Jrhero14/b558d13be5f6c057f221f1ffd2ec421f746c4f23/github-contribution-grid-snake-dark.svg"/>
 
 ### 👨‍💻 Programming languages
 
