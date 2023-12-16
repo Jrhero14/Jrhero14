@@ -2,7 +2,7 @@
 ## I'm Jeremi Herodian Abednigo
 
 <div align="left">
-<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="210" alt="Jeremi Herodian Abednigo's Dev Card" align="left"/></a>
+<a href="https://app.daily.dev/JrHero14"><img src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="230" alt="Jeremi Herodian Abednigo's Dev Card" align="left"/></a>
 <p>&nbsp;&nbsp;&nbsp;𝙸'𝚊𝚖 𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚄𝚍𝚊𝚢𝚊𝚗𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢</p>
 <p>&nbsp;&nbsp;&nbsp;𝙸 𝚕𝚒𝚔𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚖𝚎</p>
 </div>
