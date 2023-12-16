@@ -83,6 +83,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 
+![snake animation](https://github.com/Jrhero14/Jrhero14/dist/github-contribution-grid-snake2.svg)
+
 ## 🔥 Streak stats
 
 <p align="center">
