@@ -27,6 +27,8 @@
     <img alt="Instagram" title="See my Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+![snake animation](https://raw.githubusercontent.com/Jrhero14/Jrhero14/b558d13be5f6c057f221f1ffd2ec421f746c4f23/github-contribution-grid-snake-dark.svg)
+
 ### 👨‍💻 Programming languages
 
 <p align="left">
