@@ -86,6 +86,8 @@
 ## 🧰 Frameworks and libraries
 
 <p align="left">
+  <a href="#"><img alt="Node Js"
+      src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Laravel"
       src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
   <a href="#"><img alt="Django"
