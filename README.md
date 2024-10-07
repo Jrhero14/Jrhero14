@@ -1,9 +1,5 @@
 ## I'm Jeremi Herodian Abednigo
 
-<a href="https://app.daily.dev/JrHero14"><img
-    src="https://api.daily.dev/devcards/acc76c9a71ac4628a8c04c476f22f0c5.png?r=vx7" width="250"
-    alt="Jeremi Herodian Abednigo's Dev Card" align="right" /></a>
-
 <div align="left">
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C0C5B5&vCenter=true&random=false&width=435&lines=I'm+Fullstack+Developer;I'm+Fast+Learner;I'm+Machine+Learning+Enthusiast"
