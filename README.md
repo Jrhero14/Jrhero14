@@ -44,7 +44,7 @@
 </p>
 
 <img alt="Snake" title="Snake"
-  src="https://raw.githubusercontent.com/Jrhero14/Jrhero14/b558d13be5f6c057f221f1ffd2ec421f746c4f23/github-contribution-grid-snake-dark.svg" />
+  src="https://raw.githubusercontent.com/Jrhero14/Jrhero14/30023635ed183cb363cdadb9e8d98596e4a32a3a/github-contribution-grid-snake-dark.svg" />
 
 ## Miaww
 
