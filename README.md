@@ -15,7 +15,7 @@
 </div>
 
 <div align="left">
-  <a href="https://jrhero-web.vercel.app">
+  <a href="https://jeremiherodian.netlify.app/">
     <img alt="MyProfile" title="See my profile"
       src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
