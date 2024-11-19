@@ -45,18 +45,3 @@
 
 <img alt="Snake" title="Snake"
   src="https://raw.githubusercontent.com/Jrhero14/Jrhero14/30023635ed183cb363cdadb9e8d98596e4a32a3a/github-contribution-grid-snake-dark.svg" />
-
-## Miaww
-
-<div style="display: flex;">
-  <img src="https://media.tenor.com/El89itaAWsIAAAAi/maxwell.gif" />
-  <img width=20% src="https://media.tenor.com/DKjxX0Na_tAAAAAi/betterttv-cat.gif" />
-  <img width=20% src="https://media.tenor.com/oFxf3bWn40IAAAAj/zzz.gif" />
-  <img width=20% src="https://media.tenor.com/p4B1WElDbPMAAAAi/dessi-dessi-allison.gif" />
-</div>
-
-```js
-function miaww () {
-   return true;
-}
-```
