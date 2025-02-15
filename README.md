@@ -1,6 +1,8 @@
 ## I'm Jeremi Herodian Abednigo
 
 <div align="left">
+<img alt="Jeremi" title="Jeremi"
+      src="assets/jeremi.png" />
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C0C5B5&vCenter=true&random=false&width=435&lines=I'm+Fullstack+Developer;I'm+Fast+Learner;I'm+Machine+Learning+Enthusiast"
       alt="Typing SVG" /></a>
@@ -41,7 +43,10 @@
   <a href="https://www.youtube.com/@pdd_jeremiherodian794">
     <img alt="Youtube" title="See my Youtube"
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
 </p>
 
-<img alt="Snake" title="Snake"
-  src="https://raw.githubusercontent.com/Jrhero14/Jrhero14/30023635ed183cb363cdadb9e8d98596e4a32a3a/github-contribution-grid-snake-dark.svg" />
+<p>
+<img alt="Youtube" title="See my Youtube"
+      src="assets/github-contribution-grid-snake-dark.svg" />
+</p>
