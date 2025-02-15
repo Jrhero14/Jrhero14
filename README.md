@@ -1,8 +1,8 @@
 ## I'm Jeremi Herodian Abednigo
 
-<div align="left">
+<div align="center">
 <img alt="Jeremi" title="Jeremi"
-      src="assets/jeremi.png" />
+      src="assets/jeremi.png" width="80%" />
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C0C5B5&vCenter=true&random=false&width=435&lines=I'm+Fullstack+Developer;I'm+Fast+Learner;I'm+Machine+Learning+Enthusiast"
       alt="Typing SVG" /></a>
