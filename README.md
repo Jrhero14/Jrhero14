@@ -17,7 +17,7 @@
 </div>
 
 <div align="left">
-  <a href="https://jeremiherodian.netlify.app/">
+  <a href="https://jeremiherodian.vercel.app/">
     <img alt="MyProfile" title="See my profile"
       src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
@@ -31,19 +31,12 @@
   <a href="https://github.com/Jrhero14">
     <img alt="followers" title="Follow me on Github"
       src="https://img.shields.io/github/followers/Jrhero14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" /></a>
-  <a href="https://api.whatsapp.com/send?phone=6281386049701&text=Hi%2C%20i%20got%20your%20contacts%20from%20github.">
-    <img alt="Whatsapp" title="Contact Me on Whatsapp"
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jeremi-herodian-abednigo-808584228/">
     <img alt="Linkedin" title="See me CV"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/jrhero.a/">
     <img alt="Instagram" title="See my Instagram"
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@pdd_jeremiherodian794">
-    <img alt="Youtube" title="See my Youtube"
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
 </p>
 
 <p>
